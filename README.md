@@ -1,2 +1,3 @@
-# Image-Slider
-📷
+# Image-Slider 📷
+
+
