@@ -54,7 +54,7 @@ justify-content: center;
     cursor: pointer;
     transition: 1s;/*button reappearance transition timing after switching the image*/
 }
-.manual-btn:not(:last-child)
+.manual-btn:not(:last-child) /*The :not() CSS pseudo-class represents elements that do not match a list of selectors. Since it prevents specific items from being selected, it is known as the negation pseudo-class.*/
 {
     margin-right: 40px;
 }
